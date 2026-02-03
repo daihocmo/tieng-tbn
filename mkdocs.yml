@@ -7,8 +7,14 @@ repo_url: https://github.com/daihocmo/tieng-tbn
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Tài nguyên': 'resources.md'
+  - 'Hướng dẫn': 
+    - 'Tự học Tiếng Tây Ban Nha': 'guide.md'
+    - 'Đọc Tiếng Tây Ban Nha': 'reading.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+  - 'Tài nguyên': 
+    - 'Tài nguyên tự học': 'resources.md'
+    - 'Nội dung Tiếng Tây Ban Nha': 'recommendations.md'
  
 theme:
   palette:
