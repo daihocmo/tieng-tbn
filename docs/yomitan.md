@@ -27,6 +27,8 @@ Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **
 
 Dưới đây là một số từ điển mà mình tìm được (Bấm vào tên từ điển để tải luôn nhé):
 
+(TODO)
+
 ### Từ điển song ngữ (TBN - Việt)
 
 - [Từ điển Tây Ban Nha - Việt v1.0](https://github.com/catusf/tudien/releases/download/v4.4/star_tbnviet.yomitan.zip) - Không nhiều từ lắm, có khoảng 19000 từ :<

@@ -113,7 +113,7 @@ Một số tác phẩm gợi ý bao gồm:
 
 Khi bạn đã thoải mái với việc đọc tiếng Tây Ban Nha nguyên bản, đã đến lúc chuyển sang **nội dung thật**.
 
-Dưới đây là danh sách đã được **bổ sung mô tả ngắn, dễ hiểu, tập trung vào nội dung và “cảm giác đọc”** cho từng tác phẩm, để bạn dễ chọn theo sở thích:
+Dưới đây là danh sách đã được **bổ sung mô tả ngắn, dễ hiểu, tập trung vào nội dung và “cảm giác đọc”** cho từng tác phẩm, để bạn dễ chọn:
 
 #### _Como agua para chocolate_ – Laura Esquivel
 

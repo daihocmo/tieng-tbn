@@ -1,76 +1,69 @@
-# Tài nguyên học
+# Tài nguyên tự học Tiếng Tây Ban Nha
 
-## Bảng Chữ Cái và Phát Âm
+## 🔤 Bảng chữ cái & Phát âm
 
-### Blogs/Websites
+- [Spanish Phonology - Wikipedia](https://en.wikipedia.org/wiki/Spanish_phonology): Tổng quan kỹ thuật về hệ thống âm thanh tiếng Tây Ban Nha.
+- [Spanish Pronunciation Introduction](https://www.youtube.com/watch?v=kJL-e2iJxHA&list=PL_bC0YvGkS4Qv3DswsEkYTJqAU93HU9cz&index=2): Video ngắn giới thiệu phát âm cơ bản.
+- [European Spanish Pronunciation Guide](https://blog.fluent-forever.com/spanish-eu-resources/#spanishvideo1): Chuỗi video Fluent Forever về phát âm tiếng Tây Ban Nha (Tây Ban Nha).
+- [Latin American Pronunciation Guide](https://blog.fluent-forever.com/spanish-la-resources/#spanishvideo1): Hướng dẫn phát âm tiếng Tây Ban Nha Mỹ Latinh.
+- [How to Roll your Rs](https://youtu.be/4_ip0x88Euc): Hướng dẫn rung âm “r”.
+- [Refold Spanish Writing System Deck](https://ankiweb.net/shared/info/1195472731): Anki deck luyện đọc tiếng Tây Ban Nha theo cách phát âm thực tế.
+- [Windows Accent Picker (PowerToys)](https://learn.microsoft.com/en-us/windows/powertoys/quick-accent): Công cụ gõ dấu tiếng Tây Ban Nha nhanh trên Windows.
 
-- [Spanish Phonology - Wikipedia](https://en.wikipedia.org/wiki/Spanish_phonology):Technical guide to the sounds used in the Spanish language. Neutral / Various. Beginner. Free access.
-- [Numbers Practice (Mexico)](https://langpractice.com/spanish-mexico):Practice identifying numbers that you hear and saying numbers that you see. Mexico / México. Beginner. Free access.
-- [Numbers Practice (Spain)](https://langpractice.com/spanish-spain):Practice identifying numbers that you hear and saying numbers that you see. Spain / España. Beginner. Free access.
+## 🔢 Luyện số
 
-### YouTube Videos
+- [Numbers Practice (Mexico)](https://langpractice.com/spanish-mexico): Luyện nghe và đọc số theo giọng Mexico.
+- [Numbers Practice (Spain)](https://langpractice.com/spanish-spain): Luyện nghe và đọc số theo giọng Tây Ban Nha.
 
-- [Spanish Pronunciation Introduction](https://www.youtube.com/watch?v=kJL-e2iJxHA&list=PL_bC0YvGkS4Qv3DswsEkYTJqAU93HU9cz&index=2):A simple, short video going over the basics of Spanish pronunciation. Neutral / Various. Beginner. Free access.
-- [European Spanish Pronunciation Guide](https://blog.fluent-forever.com/spanish-eu-resources/#spanishvideo1):Fluent Forever video series on the pronunciation of European (Spain) Spanish. Spain / España. Beginner. Free access.
-- [Latin American Pronunciation Guide](https://blog.fluent-forever.com/spanish-la-resources/#spanishvideo1):Fluent Forever guide to the pronunciation of Latin American Spanish. Neutral / Various. Beginner. Free access.
-- [How to Roll your Rs](https://youtu.be/4_ip0x88Euc):Short tutorial on how to make the Spanish "Rolled R" sound. Not perfect, but a good starter guide. Neutral / Various. Beginner. Free access.
+## 🧠 Từ vựng
 
-### Anki Decks
+- [Spanish A1 Beginner (cơ bản)](https://ankiweb.net/shared/info/901946776)
+- [Frequency List (Top 5000 words)](https://drive.google.com/open?id=1luCDqYgnfYIS6O0_qUwKyWM8u-U3FITq): Danh sách 5000 từ phổ biến nhất.
+- [Refold ES1K](https://refold.link/es1k-spanish-sheet): Anki deck 1000 từ quan trọng nhất (không chứa cognate).
+- [Intermediate Anki Vocab Deck](https://ankiweb.net/shared/info/1274644414): Anki deck từ vựng trung–cao cấp.
+- [10k Sentence/Vocab Anki Deck](https://www.mediafire.com/file/o5h1fgl52plnyll/10k_Sentence_Deck_Base_Tags_Removed.apkg/file): 10.000 câu có audio để học từ vựng trong ngữ cảnh.
 
-- [Refold Spanish Writing System Deck](https://ankiweb.net/shared/info/1195472731):A free Anki deck made by Refold focused on helping learners read Spanish as it actually sounds. Neutral / Various. Beginner. Free download.
+## 📐 Ngữ pháp
 
-### Công Cụ Khác
+### Tổng hợp
 
-- [Windows Accent Picker (PowerToys)](https://learn.microsoft.com/en-us/windows/powertoys/quick-accent):Lets you pick accents without having to change keyboard. Neutral / Various. Beginner. Free setup guide.
+- [Ngữ pháp Tây Ban Nha theo level A1-C1](https://www.scribd.com/document/741882899/Ng%E1%BB%AF-Phap-Ti%E1%BA%BFng-Tay-Ban-Nha-Chia-Theo-Level-A1-C1)
+- [Kênh Hola Lingua (video ngữ pháp A1-A2+)](https://www.youtube.com/watch?v=rEjxueskXoM)
+- [Bộ tài liệu tự học A1-C1](https://www.facebook.com/groups/108579409779390/posts/1522788391691811)
 
-## Từ Vựng
+### Website
 
-### Frequency Lists
+- [The Real Fast Spanish Blog](https://www.realfastspanish.com/blog): Blog giải thích ngữ pháp.
+- [Lawless Spanish](https://progress.lawlessspanish.com/revision): Bài học ngữ pháp và thành ngữ theo cấp độ.
+- [Verb Maestro](https://verbmaestro.com/): Luyện thì động từ và cấu trúc câu.
+- [Study Spanish Grammar Guide](https://studyspanish.com/grammar): Cẩm nang ngữ pháp đầy đủ.
+- [Español Avanzado](https://www.espanolavanzado.com/component/content/): Tài liệu ngữ pháp nâng cao.
 
-- [Frequency List (Top 5000 words)](https://drive.google.com/open?id=1luCDqYgnfYIS6O0_qUwKyWM8u-U3FITq):A list of the 5000 most common words in Spanish. Neutral / Various. All levels. Free download.
+### YouTube
 
-### Anki Decks
+- [Introduction to Spanish Grammar](https://www.youtube.com/watch?v=oG8jLhqAiuk&list=PL_bC0YvGkS4Qv3DswsEkYTJqAU93HU9cz&index=3): Video nhập môn ngữ pháp.
+- [The Spanish Dude](https://www.youtube.com/channel/UCDZPuuSYxhJlKesTmnelNVw): Giải thích ngữ pháp dễ hiểu bằng tiếng Anh.
+- [Refold Grammar Primer](https://refold.link/spanish-grammar-primer): Tổng quan ngữ pháp cơ bản.
 
-- [Refold ES1K](https://refold.link/es1k-spanish-sheet):High quality, hand selected vocabulary deck of the 1000 most useful/common words by Refold. No cognates. Neutral / Various. Beginner. Free access.
-- [Intermediate Anki Vocab Deck](https://ankiweb.net/shared/info/1274644414):A deck recommended by sxphiarodri with intermediate/advanced vocab. Neutral / Various. Intermediate. Free download.
-- [10k Sentence/Vocab Anki Deck](https://www.mediafire.com/file/o5h1fgl52plnyll/10k_Sentence_Deck_Base_Tags_Removed.apkg/file):A massive deck of 10,000 sentences with audio. Pulled from a video by "World of Shane." Neutral / Various. Intermediate to Advanced. Free download.
+## 🔁 Ngữ pháp – Anki
 
-## Ngữ Pháp
+- [Extreme Verb Conjugations Anki Deck](https://ankiweb.net/shared/info/638411848): Luyện chia động từ với nhiều dạng khác nhau.
 
-### Blogs/Websites
+## 📖 Từ điển
 
-- [The Real Fast Spanish Blog](https://www.realfastspanish.com/blog):Blog with grammar explanations. Neutral / Various. Beginner to Intermediate. Free access.
-- [Lawless Spanish](https://progress.lawlessspanish.com/revision):Website filled with lessons for grammar and idioms, organized by level as well as topic. Neutral / Various. Beginner to Intermediate. Free access.
-- [Verb Maestro](https://verbmaestro.com/):Language(s), Grammar Study/Verb Tenses. Neutral / Various. Beginner to Intermediate. Free access.
-- [Study Spanish Grammar Guide](https://studyspanish.com/grammar):Grammar Guide for nearly everything you'll need. It's pretty dense, but does a good job. Neutral / Various. Beginner to Intermediate. Free access.
-- [Español Avanzado](https://www.espanolavanzado.com/component/content/):Information, Language(s), Grammar Reference. Neutral / Various. Intermediate to Advanced. Free access.
+### Song ngữ
 
-### YouTube Videos
+- [Glosbe Tây Ban Nha - Việt](https://vi.glosbe.com/es/vi)
+- [Cambridge Tây Ban Nha → Việt](https://dictionary.cambridge.org/vi/translate/spanish-vietnamese)
 
-- [Introduction to Spanish Grammar](https://www.youtube.com/watch?v=oG8jLhqAiuk&list=PL_bC0YvGkS4Qv3DswsEkYTJqAU93HU9cz&index=3):Video from SpanishPod101 going over the absolute basics of grammar. Neutral / Various. Beginner. Free access.
-- [The Spanish Dude](https://www.youtube.com/channel/UCDZPuuSYxhJlKesTmnelNVw):American guy breaking down Spanish concepts to be more understandable. Neutral / Various. Beginner to Intermediate. Free access.
+### Đơn ngữ
 
-### Textbooks and Courses
+- [SpanishDict](https://www.spanishdict.com/): Từ điển trực tuyến phổ biến + bài học.
+- [Diccionario de la lengua española](https://dle.rae.es/): Từ điển chính thức của Viện hàn lâm Tây Ban Nha.
+- [Diccionario de americanismos](https://www.asale.org/damer/): Từ vựng riêng của tiếng Tây Ban Nha châu Mỹ.
+- [Diccionario Libre](https://diccionariolibre.com/): Từ điển tiếng lóng, cộng đồng đóng góp.
+- [Diccionario panhispánico de dudas](https://www.rae.es/dpd/): Hướng dẫn dùng từ, chính tả, ngữ pháp chuẩn.
 
-- [Refold Grammar Primer](https://refold.link/spanish-grammar-primer):A basic grammar primer to help you understand how Spanish sentences are formed. Neutral / Various. Beginner. Free access.
-- [Language Transfer Spanish](https://www.languagetransfer.org/free-courses-1#complete-spanish):Excellent free course by Language Transfer made to help you get a grasp on Spanish grammar and vocab. Neutral / Various. Beginner. Free access.
-- [Language Transfer Summary Doc](https://docs.google.com/spreadsheets/d/1U2c912oJRRIcG2RIe_RMUGC-uJSIM2Nu5INkYpchAZ0/edit?pli=1#gid=0):Gives short descriptions on every Language Transfer video. Neutral / Various. Beginner. Free access.
-- [Complete Spanish Step-by-Step](https://a.co/d/0Kx8mvi):Basic grammar and vocabulary textbook recommended by a community member. Neutral / Various. Beginner. Available for purchase.
+## 🧾 Corpus / Dữ liệu ngôn ngữ
 
-### Anki Decks
-
-- [Extreme Verb Conjugations Anki Deck](https://ankiweb.net/shared/info/638411848):Big deck of conjugations focusing on all possible forms of 72 verbs, good for people beginning to speak who struggle with conjugations. Neutral / Various. Beginner to Intermediate. Free download.
-
-## Từ Điển
-
-### Blogs/Websites
-
-- [SpanishDict](https://www.spanishdict.com/):The best online Spanish dictionary (but the site is a little annoying). They also offer good courses. Neutral / Various. All levels. Free access.
-- [Diccionario de la lengua española](https://dle.rae.es/):The "most official" Spanish dictionary administered by the RAE. Neutral / Various. All levels. Free access.
-- [Diccionario de americanismos](https://www.asale.org/damer/):Comprehensive dictionary that details words and expressions unique to Spanish as spoken in the Americas. Neutral / Various. Intermediate to Advanced. Free access.
-- [Diccionario Libre](https://diccionariolibre.com/):The Spanish version of "Urban Dictionary." A public dictionary with slang and regional word definitions. Neutral / Various. Intermediate to Advanced. Free access.
-- [Diccionario panhispánico de dudas](https://www.rae.es/dpd/):An authoritative resource published by the RAE providing guidance on proper usage, spelling, and grammar in the Spanish language worldwide. Neutral / Various. Intermediate to Advanced. Free access.
-
-### Công Cụ Khác
-
-- [Leipzig Corpora Collection - Spanish](https://corpora.uni-leipzig.de/en?corpusId=spa_news_2023):Language(s). Neutral / Various. Advanced. Free access.
+- [Leipzig Corpora Collection - Spanish](https://corpora.uni-leipzig.de/en?corpusId=spa_news_2023): Kho văn bản tiếng Tây Ban Nha để tra cứu ví dụ thực tế.
