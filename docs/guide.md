@@ -138,7 +138,7 @@ Một số tài nguyên tự học bạn có thể tham khảo:
 
 Công cụ chính được sử dụng là **Anki**, một hệ thống flashcard lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng và câu cơ bản theo thời gian. Tuy nhiên, cần nhấn mạnh rõ một điều: Anki chỉ là **công cụ hỗ trợ trí nhớ**, không phải là toàn bộ việc học Tiếng Tây Ban Nha. Nếu bạn chỉ học Anki mà không tiếp xúc với Tiếng Tây Ban Nha thật, thì bạn mới chỉ tiến bộ trong việc ôn tập thẻ Anki thôi, chứ khả năng Tiếng Tây Ban Nha vẫn chưa được cải thiện nhiều.
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**TBN1K**]() (Kéo xuống là thấy nút Download). Đây là bộ thẻ giúp bạn xây dựng nền tảng Tiếng Tây Ban Nha thông qua việc học và ôn tập 1000 từ cơ bản nhất.
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**TBN1K**](https://ankiweb.net/shared/info/1423899632) (Kéo xuống là thấy nút Download). Đây là bộ thẻ giúp bạn xây dựng nền tảng Tiếng Tây Ban Nha thông qua việc học và ôn tập 1000 từ cơ bản nhất.
 
 ## 2.3 Ngữ pháp
 
