@@ -96,7 +96,8 @@ Mình sẽ cài đặt sử dụng Yomitan vì công cụ này giúp mình có t
 
 ### Từ điển gợi ý
 
-(TODO)
+- [Espasa-Calpe ES-ES](https://files.catbox.moe/jz0774.zip)
+- [LarousseSinAnt spanish dictionary](https://files.catbox.moe/rv2as9.zip)
 
 Sau đó bạn hãy tải từ điển về và import bộ từ điển đó vào Yomitan.
 
